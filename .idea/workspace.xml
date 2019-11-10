@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="601122bc-a190-4ca4-af9c-253cbe58e230" name="Default Changelist" comment="" />
+    <list default="true" id="601122bc-a190-4ca4-af9c-253cbe58e230" name="Default Changelist" comment="Java Basics Checkin">
+      <change afterPath="$PROJECT_DIR$/src/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaBasics/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GravityCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GravityCalcWithParams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +22,23 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Xinhui Gu" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TRLVyiENfAXCVBCNMGtxqkTx94" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,32 +51,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+  <component name="RunManager" selected="Application.Multiply">
+    <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DriverClass" />
       <module name="JavaBasics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiply" />
       <module name="JavaBasics" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scope" />
+      <module name="JavaBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareChange" />
+      <module name="JavaBasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareTest4" />
+      <module name="JavaBasics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.Multiply" />
+      <item itemvalue="Application.SquareTest4" />
+      <item itemvalue="Application.SquareChange" />
+      <item itemvalue="Application.Scope" />
+      <item itemvalue="Application.DriverClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Multiply" />
+        <item itemvalue="Application.DriverClass" />
+        <item itemvalue="Application.Scope" />
+        <item itemvalue="Application.SquareChange" />
+        <item itemvalue="Application.SquareTest4" />
       </list>
     </recent_temporary>
   </component>
@@ -69,5 +116,20 @@
       <updated>1573417988723</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Basics Checkin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basics Checkin" />
   </component>
 </project>
