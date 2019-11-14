@@ -1,5 +1,5 @@
 public interface IManipulation {
-    public abstract void add();//method declaration
-    public abstract void subtract();
+    public abstract double add();//method declaration
+    public abstract double subtract();
 
 }
